@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  [inboundSMSMessageList: 
+  destinationAddress: MyString
+  messageId: MyString
+  message: MyString
+
+two:
+  [inboundSMSMessageList: 
+  destinationAddress: MyString
+  messageId: MyString
+  message: MyString
